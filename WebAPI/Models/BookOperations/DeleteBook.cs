@@ -1,7 +1,7 @@
 using System;
 using System.Linq;
 
-namespace WebAPI.BookOperations
+namespace WebAPI.Models.BookOperations
 {
     public class DeleteBook{
         private readonly BookStoreDbContext _dbContext;

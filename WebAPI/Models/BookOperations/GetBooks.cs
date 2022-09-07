@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using WebApi.Common;
 using AutoMapper;
 
-namespace WebAPI.BookOperations
+namespace WebAPI.Models.BookOperations
 {
     public class GetBookS
     {
